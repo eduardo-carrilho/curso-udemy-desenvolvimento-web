@@ -2,7 +2,7 @@
 
 Repositório para deixar salvo e como portifólio os projetos feitos ao decorrer do curso.
 
-#Lista de projetos
+# Lista de projetos
 
-1.Projeto UNES
+1. Projeto UNES
 2.
