@@ -1,6 +1,6 @@
 # Curso Udemy Desenvolvimento Web Completo
 
-Repositório para deixar salvo e como portifólio os projetos feitos ao decorrer do curso.
+Repositório para deixar salvo e como portifólio os projetos feitos no decorrer do curso.
 
 # Lista de projetos
 
