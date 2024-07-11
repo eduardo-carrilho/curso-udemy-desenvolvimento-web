@@ -13,4 +13,4 @@ Repositório para deixar salvo e como portifólio os projetos feitos no decorrer
 1. Projeto UNES
 2. Projeto Annabella
 3. Projeto TecBlog
-4. 
+4. Projeto Notícias da Cidade
