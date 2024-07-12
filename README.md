@@ -9,6 +9,7 @@ Repositório para deixar salvo e como portifólio os projetos feitos no decorrer
   - Bootstrap
   - JavaScript
   - PHP
+  - MySQL
 
 # Lista de projetos
 
@@ -26,3 +27,4 @@ Repositório para deixar salvo e como portifólio os projetos feitos no decorrer
 11. Projeto Orçamento Pessoal
 12. Projeto App Help Desk
 13. Projeto App Send Mail
+14. Projeto Loja Virtual
