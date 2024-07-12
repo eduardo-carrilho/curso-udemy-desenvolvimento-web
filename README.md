@@ -6,6 +6,7 @@ Repositório para deixar salvo e como portifólio os projetos feitos no decorrer
 
   - HTML
   - CSS
+  - Bootstrap
 
 # Lista de projetos
 
@@ -16,3 +17,5 @@ Repositório para deixar salvo e como portifólio os projetos feitos no decorrer
 4. Projeto Notícias da Cidade
 5. Projeto Chalé Hotel
 6. Projeto Museu Nacional
+7. Projeto Finans
+8. Projeto Spotify
