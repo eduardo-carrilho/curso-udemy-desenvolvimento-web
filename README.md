@@ -10,6 +10,7 @@ Repositório para deixar salvo e como portifólio os projetos feitos no decorrer
   - JavaScript
   - PHP
   - MySQL
+  - Ajax
 
 # Lista de projetos
 
@@ -28,4 +29,5 @@ Repositório para deixar salvo e como portifólio os projetos feitos no decorrer
 12. Projeto App Help Desk
 13. Projeto App Send Mail
 14. Projeto Loja Virtual
-15. Projeto App Lista de Tarefas
+15. Projeto App Pesquisa Endereço
+16. Projeto App Lista de Tarefas
